@@ -1,4 +1,4 @@
-﻿# [WHU-Spring2024-CompilerProject](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+﻿# [WHU-Spring2024-CompilerProject](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject)
 
 ## 项目描述
 
