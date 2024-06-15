@@ -51,7 +51,7 @@ Visual Studio 2022 (Windows)
 ![image](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/input_sample.png)
 
 ## 输出示例
-![image]([https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/VisualStudio_run_result.png))
+![image](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/VisualStudio_run_result.png)
 
 ## 许可证
 MIT License
