@@ -1,0 +1,11 @@
+input(a);
+input(b);
+t=1;
+f=0;
+if a==b then
+  print(t);
+endif;
+if a!=b then
+  print(f);
+endif;
+print(40+4);
