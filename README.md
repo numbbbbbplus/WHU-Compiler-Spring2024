@@ -15,6 +15,7 @@
   - `cmake_result.png`: CMake 编译结果截图。
   - `input_file_location.png`: `test.code` 和 `test.input` 文件位置截图。
   - `VisualStudio_run_result.png`: Visual Studio 运行结果截图。
+  - `input_sample.png`: 示例输入文件截图。
 
 ## 编译说明
 
