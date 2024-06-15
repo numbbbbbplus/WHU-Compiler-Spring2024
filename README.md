@@ -45,7 +45,7 @@ Visual Studio 2022 (Windows)
 
 ## 运行说明
 在编译完成后，请确保 test.code 和 test.input 文件在 build 目录下。然后在 build 目录下运行可执行文件。
-！[image](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/input_file_location.png)
+![image](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/input_file_location.png)
 
 ## 输入示例
 ![image](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/input_sample.png)
