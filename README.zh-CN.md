@@ -55,5 +55,6 @@ Visual Studio 2022 (Windows)
 ## 输出示例
 ![image](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/VisualStudio_run_result.png)
 
-## 许可证
-MIT License
+## License
+
+[MIT License](LICENSE)
