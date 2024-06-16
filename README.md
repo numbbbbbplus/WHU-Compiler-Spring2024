@@ -49,10 +49,14 @@ Visual Studio 2022 (Windows)
 
 ![image](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/input_file_location.png)
 
-## 输入示例
+## 实验要求
+
+![image](https://github.com/numbbbbbplus/WHU-Compiler-Spring2024/blob/main/images/expr_requirement.png)
+
+### 输入示例
 ![image](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/input_sample.png)
 
-## 输出示例
+### 输出示例
 ![image](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject/blob/main/images/VisualStudio_run_result.png)
 
 ## License
