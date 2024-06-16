@@ -7,10 +7,10 @@
 ## 文件结构
 
 - `main.cpp`: 主代码文件。
+- `CMakeLists.txt`: CMake 构建配置文件。
 - `inputfiles/`
   - `test.code`: 包含需要解释和执行的命令的示例代码文件。
   - `test.input`: 包含输入值的示例输入文件。
-  - `CMakeLists.txt`: CMake 构建配置文件。
 - `images/`
   - `cmake_result.png`: CMake 编译结果截图。
   - `input_file_location.png`: `test.code` 和 `test.input` 文件位置截图。
