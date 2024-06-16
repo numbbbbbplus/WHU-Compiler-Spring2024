@@ -57,4 +57,4 @@ Visual Studio 2022 (Windows)
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](https://github.com/numbbbbbplus/WHU-Compiler-Spring2024?tab=MIT-1-ov-file)
