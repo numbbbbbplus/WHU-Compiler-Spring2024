@@ -1,4 +1,4 @@
-# [WHU-Compiler_Principles_Experiment-Compiler-Spring_2024](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject)
+# [WHU-Compiler-Spring2024](https://github.com/numbbbbbplus/WHU-Spring2024-CompilerProject)
 
 ## 项目描述
 
